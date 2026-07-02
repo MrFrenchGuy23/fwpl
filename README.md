@@ -1,6 +1,7 @@
 # FWPL v1.0 - First Release
 
 **Please report any bugs to `defnotsrilankan23` on Discord.**
+**⚠️THIS PLUGIN IS BUNGEE ONLY(I will try to make it Velocity)**
 
 ## Features
 
